@@ -1,4 +1,4 @@
-# Realtime Remote Editor
+# Realtime Remote Editor Application
 Link 👉 https://realtime-remote-sync-editor.onrender.com/
 
 ## Introduction
